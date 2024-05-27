@@ -56,7 +56,30 @@
 // 1 => true     0 => false
 
 
-let number = 33;
-let conversion = String(number);
-console.log(typeof conversion);
+// let number = 33;
+// let conversion = String(number);
+// console.log(typeof conversion);
+// console.log(number)
 
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2**3);
+// console.log(2/2);
+// console.log(2%2);
+
+
+// console.log("1" + 2);   //12
+// console.log(1 + "2");   //12
+// console.log("1" + 2 + 2);  //122
+// console.log(1 + 2 + "2")   //32
+
+// console.log(+true)  //1
+// console.log(true+) //error
+// console.log(+"");
+
+// let gameCounter = 100;
+// ++gameCounter;
+// console.log(gameCounter);
