@@ -21,8 +21,8 @@ let state;
 //symbol => unique
 
 
-//object
+
 console.log(typeof "priyanca")
 console.log(typeof age)
-console.log(typeof null)     /* ***IMPORTANT  */
-console.log(typeof undefined)
+console.log(typeof null)   //object   /* ***IMPORTANT  */
+console.log(typeof undefined)    //undefined
