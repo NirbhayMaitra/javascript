@@ -25,7 +25,7 @@ This flexibility contrasts with statically typed languages, where the type of a 
 
 
 
-
+/*
 
 const score = 100;
 const scoreValue = 100.3;
@@ -65,3 +65,7 @@ console.log(typeof bigInt)
 console.log(typeof airlines)
 console.log(typeof myObj)
 console.log(typeof myFunction)
+
+*/
+
+
